@@ -1,5 +1,4 @@
 # pyhtml
-Python module to write html in python.
 
 Module name  is 'pyhtml.py'
 
