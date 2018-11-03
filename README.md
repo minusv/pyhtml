@@ -6,4 +6,4 @@ Module name  is 'pyhtml.py'
 
 The created html page, 'index.html' is hosted using GitHub pages and can be viewed at the following url-
 
-https://minusv23.github.io/pyhtml/
+https://minusv.github.io/pyhtml/
